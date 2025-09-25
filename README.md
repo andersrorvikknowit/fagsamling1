@@ -19,6 +19,17 @@ Alle skal få lov til å jobbe i tverrfaglige grupper, vi har laget et forslag i
   * Ta hensyn til de andre gruppene - ikke legg beslag på alle ressursene på maskinen på kontinuerlig basis
   * Det er fullt mulig å bruke sin egen devlaptop til å eksperimentere med før en tar i bruk "The Beast"
 
+### Grupper
+
+| 1         | 2         | 3         | 4          | 5         | 6         | 7       | 8      |
+| --------- | --------- | --------- | ---------- | --------- | --------- | ------- | ------ |
+| Markus    | Nataniel  | Kjetil    | Elling     | Gøran     | Andreas O | Ruben W | Glenn  |
+| Marius    | Eskil     | Sondre    | Eirik S    | Henriette | Håvard    | Steffen | Jørgen |
+| Patrick S | Vanessa   | Emma      |        | Karoline  | Runar     | Isabel  | Johnny |
+| Karina    | Per       | Ruben Aa  | Florian    | Emiel     | Hans      | Simen H | Martha |
+| |  | Christian | Kristian S | Jon       | Kim       | Helle   | |
+
+
 ## Tips
 
 I dag er ikke dagen for å finne opp hjulet på nytt. Utforsk verktøy som [ComfyUI](https://www.comfy.org/), [InvokeAI](https://github.com/invoke-ai/InvokeAI?tab=readme-ov-file) , se hva som finnes på huggingface med mer, og bruk det!
