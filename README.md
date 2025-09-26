@@ -14,7 +14,7 @@ Alle skal få lov til å jobbe i tverrfaglige grupper, vi har laget et forslag i
 * Fri jobbing
   * Vi setter oss sammen i grupper, bruk arealet i kaféen og omkringliggende møterom om ønskelig. Om det blir for fullt , eller om en ønsker mer ro er det absolutt lov å flytte på seg
   * Om du må noe viktig som et kundemøte som ikke kan utsettes, så gjør det, null stress.
-  * Karina har logins til gruppene.
+  * Karina har logins til gruppene, ipen til maskinen er 10.133.15.153 . Husk at du må være på knowitnettet.
   * Husk at modeller skal være lokale, vi vet at dette virker i sky, målet er å finne ut hvor bra det kan fungere lokalt, med maskinvare som er relativt lett tilgjengelig
   * Alle grupper får én login til "The Beast". Lag flere om dere trenger det. Dere har sudo.
   * Ta hensyn til de andre gruppene - ikke legg beslag på alle ressursene på maskinen på kontinuerlig basis
@@ -23,12 +23,12 @@ Alle skal få lov til å jobbe i tverrfaglige grupper, vi har laget et forslag i
 ### Grupper
 
 | 1         | 2         | 3         | 4          | 5         | 6         | 7       | 8      |
-| --------- | --------- | --------- | ---------- | --------- | --------- | ------- | ------ |
+| --------- | --------- | --------- | ---------- | --------- | --------- | ------- |--------|
 | Markus    | Nataniel  | Kjetil    | Elling     | Gøran     | Andreas O | Ruben W | Glenn  |
 | Marius    | Eskil     | Sondre    | Eirik S    | Henriette | Håvard    | Steffen | Jørgen |
 | Patrick S | Vanessa   | Emma      |        | Karoline  | Runar     | Isabel  | Johnny |
 | Karina    | Per       | Ruben Aa  | Florian    | Emiel     | Hans      | Simen H | Martha |
-| |  | Christian | Kristian S | Jon       | Kim       | Helle   | |
+| |  | Christian | Kristian S | Jon       | Kim       | Helle   | Stine     |
 
 
 ## Tips
